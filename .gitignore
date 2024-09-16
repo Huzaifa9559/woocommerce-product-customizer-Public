@@ -1,0 +1,8 @@
+**/.sass-cache/
+**.sublime-**
+**/.DS_Store
+/node_modules
+/dist
+/vendor
+*.zip
+src/languages/product-configurator-for-woocommerce.pot
